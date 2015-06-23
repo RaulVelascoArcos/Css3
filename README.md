@@ -1,2 +1,1 @@
-# Css3
-Ejercicios  en css3
+En esta carpeta están algunos ejercicios realizados con CSS3.
